@@ -29,20 +29,21 @@ This repository contains code to build a content-based recommendation system for
    cd Netflix-Movie-TV-Recommendation
 
    
-###Install the required libraries:
-
-pip install -r requirements.txt
-
-
-###Open the Jupyter Notebook:
-
-jupyter notebook Netflix_Movies_T_V_Recommendation.ipynb
+2. Install the required libraries:
+    ```bash
+    pip install -r requirements.txt
 
 
-###Project Structure:
-
-.
-├── Netflix_Movies_T_V_Recommendation.ipynb  # Main notebook for building the recommendation system
-├── README.md                                # Project overview and instructions
-└── requirements.txt                         # List of required dependencies
+3. Open the Jupyter Notebook:
+    ```bash
+    jupyter notebook Netflix_Movies_T_V_Recommendation.ipynb
+    ```
+    
+### Project Structure:
+   ```bash
+     .
+     ├── Netflix_Movies_T_V_Recommendation.ipynb  # Main notebook for building the recommendation system
+     ├── README.md                                # Project overview and instructions
+     └── requirements.txt                         # List of required dependencies
+   ```
 
